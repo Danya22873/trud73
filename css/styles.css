@@ -73,8 +73,7 @@ body{
     width: 50vw;
     height: 50vh;
     background-color: rgb(153, 51, 51);
-    background-image: url(..
-/images/umz.jpg);
+    background-image: url(../images/umz.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center; 
